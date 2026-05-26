@@ -10,6 +10,10 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellyson-vaz-correia-62a57022b/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ellyson@gmail.com)
+  
+  <br><br>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Ellyvc23&theme=tokyonight&border_color=00E5FF&title_color=00E5FF&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
@@ -25,11 +29,9 @@
 
 ### 🛠️ Tech Arsenal
 
-**Languages & Databases:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,cs,mysql&theme=dark)](https://skillicons.dev)
+**Languages & Databases:** [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,cs,mysql&theme=dark)](https://skillicons.dev)
 
-**Frameworks & Tech:**  
-[![Frameworks](https://skillicons.dev/icons?i=laravel,flask,fastapi,git,linux&theme=dark)](https://skillicons.dev)
+**Frameworks & Tech:** [![Frameworks](https://skillicons.dev/icons?i=laravel,flask,fastapi,git,linux&theme=dark)](https://skillicons.dev)
 
 ### 🚀 Featured Projects
 
@@ -68,4 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyvc23&layout=compact&theme=tokyonight&border_color=00E5FF&title_color=00E5FF" alt="Top Langs" />
 </div>
 
-Seu deck de slides sobre a estratégia do novo perfil está pronto! Dê uma olhada no design e me avise se precisar de mais algum ajuste fino.
+---
+
+<div align="center">
+  <h3>My Contribution Snake</h3>
+  <img src="https://github.com/Ellyvc23/Ellyvc23/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>

@@ -1,24 +1,28 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Ellyson;%3C/%3E+Fullstack+Developer;Tech+Student;Passion+for+Programming" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
   <a href="#eng"><img src="https://img.shields.io/badge/🇺🇸_English-111111?style=for-the-badge&color=111111&labelColor=00E5FF" alt="English"/></a>
   <a href="#ptbr"><img src="https://img.shields.io/badge/🇧🇷_Português-111111?style=for-the-badge&color=111111&labelColor=00E5FF" alt="Português"/></a>
-  
+</div>
+
+---
+
+<div align="center">
+  <h3>Tech Arsenal</h3>
+  <br>
+  <p><strong>Languages & Databases</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cs,mysql&theme=dark" alt="Languages" />
+  </a>
   <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Ellyson;%3C/%3E+Fullstack+Developer;Tech+Student;Passion+for+Programming" alt="Typing SVG" />
-
-  <br><br>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ellyvc23&theme=tokyonight&border_color=00E5FF&title_color=00E5FF&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-  <br><br>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellyson-vaz-correia-62a57022b/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ellyson@gmail.com)
-
-  <br><br>
-
-  **Tech Arsenal:**<br>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,cs,mysql,laravel,flask,fastapi,git,linux&theme=dark)](https://skillicons.dev)
+  <p><strong>Frameworks & Tools</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,flask,fastapi,git,linux&theme=dark" alt="Frameworks" />
+  </a>
 </div>
 
 ---
@@ -34,7 +38,7 @@
 
 ### 🚀 Featured Projects
 
-* 🎈 **[PartyPal](https://github.com/Ellyvc23/PartyPal)** - Solving group decision paralysis for seamless outings.
+* 🎈 **[PartyPal](https://github.com/Ellyvc23/PartyPal)** - *(Currently in development)* Solving group decision paralysis for seamless outings.
 * 📚 **[E-Readly](https://github.com/Ellyvc23/Ereadly)** - A social reading tracker to organize your literary journey.
 * 💳 **[Sistema Faturamento](https://github.com/Ellyvc23/sistema-faturamento)** - High-performance PHP/MVC billing dashboard.
 
@@ -57,21 +61,21 @@
 
 ### 🚀 Projetos em Destaque
 
-* 🎈 **[PartyPal](https://github.com/Ellyvc23/PartyPal)** - Plataforma para facilitar decisões em grupo e organizar rolês.
+* 🎈 **[PartyPal](https://github.com/Ellyvc23/PartyPal)** - *(Em desenvolvimento)* Plataforma para facilitar decisões em grupo e organizar rolês.
 * 📚 **[E-Readly](https://github.com/Ellyvc23/Ereadly)** - Rede social e tracker de leitura para organizar seus hábitos literários.
 * 💳 **[Sistema Faturamento](https://github.com/Ellyvc23/sistema-faturamento)** - Dashboard de faturamento desenvolvido em PHP com arquitetura MVC.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ellyvc23&show_icons=true&theme=tokyonight&hide_border=false&border_color=00E5FF&title_color=00E5FF&v=2" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyvc23&layout=compact&theme=tokyonight&border_color=00E5FF&title_color=00E5FF&v=2" alt="Top Langs" />
+  <h3>My Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/Ellyvc23/Ellyvc23/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>My Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/Ellyvc23/Ellyvc23/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <h3>Let's Connect! / Vamos Conectar!</h3>
+  <a href="https://www.linkedin.com/in/ellyson-vaz-correia-62a57022b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dev.ellyson@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>

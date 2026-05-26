@@ -74,5 +74,5 @@
 
 <div align="center">
   <h3>My Contribution Snake</h3>
-  <img src="https://github.com/Ellyvc23/Ellyvc23/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Ellyvc23/Ellyvc23/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>

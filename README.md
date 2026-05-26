@@ -4,16 +4,21 @@
   
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ellyson;%3C/%3E+Fullstack+Developer;Tech+Student;Passion+for+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Ellyson;%3C/%3E+Fullstack+Developer;Tech+Student;Passion+for+Programming" alt="Typing SVG" />
 
-  <br>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellyson-vaz-correia-62a57022b/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ellyson@gmail.com)
-  
   <br><br>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Ellyvc23&theme=tokyonight&border_color=00E5FF&title_color=00E5FF&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <br><br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellyson-vaz-correia-62a57022b/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ellyson@gmail.com)
+
+  <br><br>
+
+  **Tech Arsenal:**<br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,cs,mysql,laravel,flask,fastapi,git,linux&theme=dark)](https://skillicons.dev)
 </div>
 
 ---
@@ -26,12 +31,6 @@
 * 🎓 **Tech Student**: Currently pursuing my degree in technology to reach new heights.
 * 💼 **IT Professional**: Working professionally in the IT sector, bringing hands-on experience to my code every day.
 * 🚀 **Focus**: Building lightweight systems, clean architecture, and modern web frameworks.
-
-### 🛠️ Tech Arsenal
-
-**Languages & Databases:** [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,cs,mysql&theme=dark)](https://skillicons.dev)
-
-**Frameworks & Tech:** [![Frameworks](https://skillicons.dev/icons?i=laravel,flask,fastapi,git,linux&theme=dark)](https://skillicons.dev)
 
 ### 🚀 Featured Projects
 
@@ -46,7 +45,7 @@
 <div id="ptbr"></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Ola,+eu+sou+o+Ellyson;%3C/%3E+Desenvolvedor+Fullstack;Estudante+de+Tecnologia;Apaixonado+por+Codigo" alt="Typing SVG BR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Ola,+eu+sou+o+Ellyson;%3C/%3E+Desenvolvedor+Fullstack;Estudante+de+Tecnologia;Apaixonado+por+Codigo" alt="Typing SVG BR" />
 </div>
 
 ### 👨‍💻 Sobre Mim (Português)
@@ -65,9 +64,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ellyvc23&show_icons=true&theme=tokyonight&hide_border=false&border_color=00E5FF&title_color=00E5FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ellyvc23&show_icons=true&theme=tokyonight&hide_border=false&border_color=00E5FF&title_color=00E5FF&v=2" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyvc23&layout=compact&theme=tokyonight&border_color=00E5FF&title_color=00E5FF" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyvc23&layout=compact&theme=tokyonight&border_color=00E5FF&title_color=00E5FF&v=2" alt="Top Langs" />
 </div>
 
 ---
